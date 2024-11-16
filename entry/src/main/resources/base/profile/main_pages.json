@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/superIndex",
+    "pages/superSearch",
+    "pages/superMy",
+    "pages/superLogin",
+    "pages/superRegist",
+    "pages/superEdit",
+    "pages/superEditname",
+    "pages/superDetail",
+    "pages/superGuanggao"
+  ]
+}
